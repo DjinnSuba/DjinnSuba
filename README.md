@@ -5,7 +5,7 @@
 
 - 🎓 Fourth Year Bachelor of Science in Computer Science at [University of the Philippines - Manila](https://www.upm.edu.ph/)
 
-- 🔭 I’m currently working on [Building Inventory System](https://github.com/perlgasmen07/bis) for UPM IMS-DIG
+- 🔭 I’m currently working on [Automated Library Invetory Management System](https://github.com/kristinjuwel/alims-backend) for Graduate Students as requirement from C.S. 128.2
 
 - 🌱 I’m currently learning **.Net Framework, Data Scraping**
 
