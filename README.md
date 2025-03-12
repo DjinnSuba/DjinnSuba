@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Czar!</h1>
-<h3 align="center">Aspiring Full Stack Developer | Data Analyst</h3>
+<h3 align="center">Aspiring Software Engineer | Data Analyst</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=djinnsuba&label=Profile%20views&color=0e75b6&style=flat" alt="djinnsuba" /> </p>-->
 
