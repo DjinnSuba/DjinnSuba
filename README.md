@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Czar!</h1>
-<h3 align="center">Aspiring Software Engineer | Data Analyst</h3>
+<h3 align="center"> Software Engineer | Data Analyst</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=djinnsuba&label=Profile%20views&color=0e75b6&style=flat" alt="djinnsuba" /> </p>-->
 
 - 🎓 Fourth Year Bachelor of Science in Computer Science at [University of the Philippines - Manila](https://www.upm.edu.ph/)
 
-- 🔭 I’m currently working on [Automated Library Invetory Management System](https://github.com/kristinjuwel/alims-backend) for Graduate Students as requirement from C.S. 128.2
+- 🔭 I’m currently working on my thesis [Electronic Blockchain Based Bidding System] 
 
 - 🌱 I’m currently learning **.Net Framework, Data Scraping**
 
