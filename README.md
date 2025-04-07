@@ -5,7 +5,7 @@
 
 - 🎓 Fourth Year Bachelor of Science in Computer Science at [University of the Philippines - Manila](https://www.upm.edu.ph/)
 
-- 🔭 I’m currently working on my thesis [Electronic Blockchain Based Bidding System] 
+- 🔭 I’m currently working on my thesis **Electronic Blockchain Based Bidding System**
 
 - 🌱 I’m currently learning **.Net Framework, Data Scraping**
 
